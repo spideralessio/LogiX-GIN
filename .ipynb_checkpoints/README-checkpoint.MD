@@ -2,12 +2,14 @@
 Official repository of [LogiX-GIN](https://neurips.cc/virtual/2025/poster/118261), accepted at NeurIPS 2025.
 
 To cite our work, please use:
-```@inproceedings{ragno2025,
+```
+@inproceedings{ragno2025,
   title={On Logic-based Self-Explainable Graph Neural Networks},
   author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year={2025}
-}```
+}
+```
 
 The environment details are available in the `environment.yml` file.
 
