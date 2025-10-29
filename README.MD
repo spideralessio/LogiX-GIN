@@ -31,3 +31,7 @@ The repository contains a simple example of a model trained on MUTAG with 2 laye
 - `python train_baseline.py --dataset MUTAG --seed 0 --epochs 3000 --batch_size 128 --hidden_dim 32 --num_layers 2 --dropout 0.5 --l2 0.0001 --nogumbel --lr 0.001`
 - `python train_baseline.py --dataset MUTAG --seed 0 --epochs 3000 --batch_size 32 --hidden_dim 32 --num_layers 2 --l2 0.0 --lr 0.01`
 - `python train_logic.py --dataset MUTAG --seed 0 --epochs 5000 --batch_size 32 --l2 0.0 --lr 0.01 --fc_reg 0.01 --conv_reg 0.001`
+
+
+
+<meta name="google-site-verification" content="NvvbrAEu0qY40THAJvDpkEg9Tvo-Gk2mj2eqWXhGS7Q" />
