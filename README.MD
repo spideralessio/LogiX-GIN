@@ -34,4 +34,3 @@ The repository contains a simple example of a model trained on MUTAG with 2 laye
 
 
 
-<meta name="google-site-verification" content="NvvbrAEu0qY40THAJvDpkEg9Tvo-Gk2mj2eqWXhGS7Q" />
